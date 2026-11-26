@@ -21,7 +21,7 @@ The app isn't notarized by Apple, so macOS blocks it the first time:
 
       xattr -dr com.apple.quarantine /Applications/ADOM.app
 
-ADOM opens in Terminal.app. To use iTerm2 instead, run `defaults write local.adom.native terminal iTerm`.
+ADOM opens in one window of the terminal app you used most recently (Terminal, iTerm2, Ghostty, WezTerm, kitty, Alacritty or Warp). To pick one yourself, run `defaults write local.adom.native terminal iTerm` (or `Terminal`, or another app's name).
 
 ## Notes
 
