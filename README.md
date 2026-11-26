@@ -2,7 +2,7 @@
 
 A native build of **ADOM (Ancient Domains of Mystery) 3.3.3** for Macs with Apple Silicon (M1 or later). No emulator, Wine, VM or Rosetta needed.
 
-ADOM is © Thomas Biskup, and this build is distributed with his permission. This repository contains only the compiled app, with no source code.
+ADOM is © Thomas Biskup, and this build is distributed with the permission of Thomas Biskup and Jochen. This repository contains only the compiled app, with no source code.
 
 ## Download
 
